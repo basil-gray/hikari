@@ -1,0 +1,3 @@
+For myself, since I keep on forgetting.
+
+// npm run dev
